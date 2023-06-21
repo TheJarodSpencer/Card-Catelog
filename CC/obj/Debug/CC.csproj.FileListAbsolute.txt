@@ -1,2 +1,12 @@
 G:\Old Desktop\Programs\CC\CC\obj\Debug\CC.csproj.AssemblyReference.cache
 G:\Old Desktop\Programs\CC\CC\obj\Debug\CC.csproj.SuggestedBindingRedirects.cache
+G:\Old Desktop\Programs\CC\CC\bin\Debug\CC.exe.config
+G:\Old Desktop\Programs\CC\CC\bin\Debug\CC.exe
+G:\Old Desktop\Programs\CC\CC\bin\Debug\CC.pdb
+G:\Old Desktop\Programs\CC\CC\obj\Debug\CC.Form1.resources
+G:\Old Desktop\Programs\CC\CC\obj\Debug\CC.Properties.Resources.resources
+G:\Old Desktop\Programs\CC\CC\obj\Debug\CC.Set_Selecter.resources
+G:\Old Desktop\Programs\CC\CC\obj\Debug\CC.csproj.GenerateResource.cache
+G:\Old Desktop\Programs\CC\CC\obj\Debug\CC.csproj.CoreCompileInputs.cache
+G:\Old Desktop\Programs\CC\CC\obj\Debug\CC.exe
+G:\Old Desktop\Programs\CC\CC\obj\Debug\CC.pdb

@@ -50,6 +50,7 @@ namespace CC
             string extension = "\\series\\";
             string series = "BS.jpg";
             string filename = path + extension + series;
+
             System.IO.FileInfo File = new System.IO.FileInfo(filename);
             baseSetButton.BackgroundImage = Image.FromFile(filename);
             series = "GH.jpg";

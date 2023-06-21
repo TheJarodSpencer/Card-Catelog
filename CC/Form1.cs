@@ -19,7 +19,8 @@ namespace CC
     
         private void startButton_Click(object sender, EventArgs e)
         {
-            
+            Set_Selecter ss = new Set_Selecter();
+            ss.Show();
         }
     }
 }
