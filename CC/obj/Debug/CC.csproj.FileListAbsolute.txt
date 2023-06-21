@@ -1,0 +1,2 @@
+G:\Old Desktop\Programs\CC\CC\obj\Debug\CC.csproj.AssemblyReference.cache
+G:\Old Desktop\Programs\CC\CC\obj\Debug\CC.csproj.SuggestedBindingRedirects.cache
